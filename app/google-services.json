@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "718007513849",
+    "firebase_url": "https://bolbol-1caad-default-rtdb.firebaseio.com",
+    "project_id": "bolbol-1caad",
+    "storage_bucket": "bolbol-1caad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718007513849:android:3d1a901e980a64519c2828",
+        "android_client_info": {
+          "package_name": "com.example.beerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCb9hKR30e1mPjA8rvWfLeUvokfzSh5-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

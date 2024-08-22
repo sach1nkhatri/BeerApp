@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BeerApp</string>
+    <string name="profile">Profile</string>
+    <string name="home">home</string>
+    <string name="cart">cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grab_a_beer">Grab a Beer</string>
+    <string name="description">Description</string>
+    <string name="order_history">Order History</string>
+    <string name="order_history_description">Total: %1$s\nTime: %2$s</string>
+    <string name="oder_id">Oder ID</string>
+
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation_message">Are you sure you want to logout?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logged_out">Logged out</string>
+    <string name="description_format">Total: %1$s</string>
+    <string name="time_format">Time: %1$s</string>
+
+</resources>
